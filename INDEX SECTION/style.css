@@ -1,0 +1,17 @@
+/*CSS cascade style sheet*/
+body {
+    background-color: rgb(219, 183, 253);
+    color: rgb(107, 50, 160);
+
+}
+
+.navegacionHeader {
+    color: rgb(111, 0, 255);
+    background-color: rgb(228, 181, 255);
+    font-size: 20px;
+    font-weight: 10px;
+}
+
+.tituloPagina {
+    text-shadow: 3px 3px 1px rgb(175, 97, 206), 6px 6px 1px rgb(177, 136, 211);
+}
